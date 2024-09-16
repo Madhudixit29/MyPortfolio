@@ -1,0 +1,112 @@
+body {
+    background: linear-gradient(180deg, #6f5d5d 40%, #272222 80%), linear-gradient(90deg, #988383 0%, #000000 80%), #230523;
+    background-blend-mode: multiply, screen, normal;
+
+  }
+
+  .card-img {
+    height: 40%;
+  }
+
+  .card-title {
+    font-size: 70px;
+    color: rgb(47, 35, 35);
+    font-weight: bolder;
+  }
+
+  .card-text {
+    font-size: xx-large;
+    color: black;
+    font-weight: bolder;
+  }
+
+  .name {
+    color: rgb(53, 60, 182);
+  }
+
+  .img-fluid rounded-start {
+    max-width: 50%;
+    max-height: 50%;
+  }
+
+  .card2 {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 200px;
+    margin-bottom: 150px;
+
+  }
+
+  .navbar-nav {
+    font-size: x-large;
+    font-weight: bold;
+
+  }
+
+  .navbar-brand {
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(199, 93, 111);
+  }
+
+  .navbar-nav a:hover {
+    padding-left: 20px;
+    padding-right: 100px;
+    background-color: rgb(210, 210, 210);
+  }
+
+  .card-body {
+    color: white;
+  }
+
+  .Education {
+    margin-top: 150px;
+    text-align: center;
+    color: white;
+  }
+
+  h1 {
+    color: white;
+    font-weight: bolder;
+  }
+
+  p {
+    color: white;
+    font-weight: bold;
+  }
+
+  .bi {
+    margin-left: 40px;
+  }
+
+
+
+  .bi-instagram {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 2px;
+    padding-bottom: 6px;
+    font-size: 40px;
+    width: 100px;
+    height: 80px;
+    background: #fe4eb2;
+    color: white;
+
+  }
+
+  /* Twitter */
+  .bi-linkedin {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 2px;
+    padding-bottom: 6px;
+    font-size: 40px;
+    width: 100px;
+    height: 80px;
+    background: #1a1af6;
+    color: white;
+  }
+
+  .card {
+    background-color: rgb(231, 234, 205);
+  }
